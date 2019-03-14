@@ -11,3 +11,5 @@ parse_git_branch(){
 export PS1="[\[\033[36m\]\u\[\033[37m\]@\[\033[33;1m\]\w\[\033[m\]|=> "
 
 export PS2="|=> "
+
+source ~/.bashrc
